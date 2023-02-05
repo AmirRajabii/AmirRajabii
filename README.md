@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amir-rajabi-175584222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amir-rajabi-175584222" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amir-rajabii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amir-rajabi-175584222" height="30" width="40" /></a>
 <a href="https://instagram.com/_amirrjbi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_amirrjbi_" height="30" width="40" /></a>
 <a href="https://discord.gg/ıllıllı 𝒜𝓂𝒾𝓇 ıllıllı#1386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ıllıllı 𝒜𝓂𝒾𝓇 ıllıllı#1386" height="30" width="40" /></a>
 </p>
