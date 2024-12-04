@@ -43,8 +43,7 @@
 </div>
 
 ###
-![AmirRajabii's Stats](https://github-readme-stats.vercel.app/api?username=AmirRajabii&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-
-![AmirRajabii's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmirRajabii&theme=tokyonight&hide_border=false)
-
-![AmirRajabii's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirRajabii&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+<div align="center">
+   <img width="400" src="https://github-readme-stats.vercel.app/api?username=AmirRajabii&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+   <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=AmirRajabii&theme=tokyonight&hide_border=true" />
+</div>
