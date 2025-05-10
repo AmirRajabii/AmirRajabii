@@ -44,6 +44,10 @@
 
 ###
 <div align="center">
-   <img width="400" src="https://github-readme-stats.vercel.app/api?username=AmirRajabii&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-   <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=AmirRajabii&theme=dark&hide_border=true" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AmirRajabii&theme=github-dark&hide_border=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 </div>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmirRajabii&theme=github_dark"/>
+</p>
+
